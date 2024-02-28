@@ -27,4 +27,4 @@ data=$(echo "$response" | jq '.')
 
 # save the results in a file
 echo "The extraction for dataset $1 in the dates range $2 / $3 is succeesfully at $(date)"
-echo "$data" > $1/$1.json
+echo "$data" > ./RAW/$1.json

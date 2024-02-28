@@ -1,0 +1,263 @@
+{
+  "parameters": {
+    "idDataset": "306c67",
+    "startDate": "2046-12-01",
+    "endDate": "2046-12-01"
+  },
+  "success": true,
+  "result": {
+    "idDataset": "306c67",
+    "name": "Asignaciones de OEF por planta",
+    "metadata": {
+      "description": "Obligaciones de Energía Firme (OEF) de cada planta por cada Período Cargo, por agente y expresada en kWh/año",
+      "creationDate": "2023-09-28 20:52:14",
+      "lastUpdate": "2023-10-02 16:20:38",
+      "entity": "XM",
+      "category": "Asignaciones de OEF por planta",
+      "periodicity": "Anual",
+      "granularity": "Anual",
+      "historicData": "https://www.xm.com.co/transacciones/cargo-por-confiabilidad/obligaciones-de-energia-0",
+      "private": false
+    },
+    "filterDate": "FechaInicioCargo",
+    "records": [
+      {
+        "FechaPublicacion": "2024-02-16",
+        "FechaInicioCargo": "2046-12-01",
+        "FechaFinCargo": "2047-11-30",
+        "CodigoSICAgente": "SOLAR EL EDEN S.A.S.",
+        "CodigoPlanta": "PARQUE SOLAR FOTOVOLTAICO MELGAR DE 180 MW",
+        "Tecnologia": "Solar",
+        "OEF": 372314
+      },
+      {
+        "FechaPublicacion": "2024-02-16",
+        "FechaInicioCargo": "2046-12-01",
+        "FechaFinCargo": "2047-11-30",
+        "CodigoSICAgente": "GENERADORA BUENAVISTA S.A.S.",
+        "CodigoPlanta": "PARQUE SOLAR LA VIRGINIA",
+        "Tecnologia": "Solar",
+        "OEF": 311900
+      },
+      {
+        "FechaPublicacion": "2024-02-16",
+        "FechaInicioCargo": "2046-12-01",
+        "FechaFinCargo": "2047-11-30",
+        "CodigoSICAgente": "PARQUE SOLAR COLOMBIA I S.A.S. E.S.P.",
+        "CodigoPlanta": "PARQUE DE GENERACI?N FOTOVOLTAICA LA PRIMAVERA DE 57 MW",
+        "Tecnologia": "Solar",
+        "OEF": 90195
+      },
+      {
+        "FechaPublicacion": "2024-02-16",
+        "FechaInicioCargo": "2046-12-01",
+        "FechaFinCargo": "2047-11-30",
+        "CodigoSICAgente": "PROYECTO SOLAR MATIMBA II S.A.S.",
+        "CodigoPlanta": "EFIGEN C03 99 MW",
+        "Tecnologia": "Solar",
+        "OEF": 204913
+      },
+      {
+        "FechaPublicacion": "2024-02-16",
+        "FechaInicioCargo": "2046-12-01",
+        "FechaFinCargo": "2047-11-30",
+        "CodigoSICAgente": "PARQUE SOLAR PUERTA DE ORO S.A.S.",
+        "CodigoPlanta": "PARQUE SOLAR PUERTA DE ORO",
+        "Tecnologia": "Solar",
+        "OEF": 607484
+      },
+      {
+        "FechaPublicacion": "2024-02-16",
+        "FechaInicioCargo": "2046-12-01",
+        "FechaFinCargo": "2047-11-30",
+        "CodigoSICAgente": "OPERADORA SHANGRI-LA S.A.S. E.S.P.",
+        "CodigoPlanta": "PARQUE FOTOVOLTAICO SHANGRI-LA 160 MW",
+        "Tecnologia": "Solar",
+        "OEF": 541984
+      },
+      {
+        "FechaPublicacion": "2024-02-16",
+        "FechaInicioCargo": "2046-12-01",
+        "FechaFinCargo": "2047-11-30",
+        "CodigoSICAgente": "BOSQUES SOLARES DE LOS LLANOS 6 S.A.S E.S.P",
+        "CodigoPlanta": "BOSQUES SOLARES DE LOS LLANOS 6",
+        "Tecnologia": "Solar",
+        "OEF": 228345
+      },
+      {
+        "FechaPublicacion": "2024-02-16",
+        "FechaInicioCargo": "2046-12-01",
+        "FechaFinCargo": "2047-11-30",
+        "CodigoSICAgente": "FOTOVOLTAICO TOLIMA NORTE S.A.S.",
+        "CodigoPlanta": "PARQUE SOLAR FOTOVOLTAICO TOLIMA NORTE 50MW",
+        "Tecnologia": "Solar",
+        "OEF": 96947
+      },
+      {
+        "FechaPublicacion": "2024-02-16",
+        "FechaInicioCargo": "2046-12-01",
+        "FechaFinCargo": "2047-11-30",
+        "CodigoSICAgente": "PARQUE SOLAR COLOMBIA XIV S.A.S. E.S.P",
+        "CodigoPlanta": "MISAK",
+        "Tecnologia": "Solar",
+        "OEF": 150019
+      },
+      {
+        "FechaPublicacion": "2024-02-16",
+        "FechaInicioCargo": "2046-12-01",
+        "FechaFinCargo": "2047-11-30",
+        "CodigoSICAgente": "SOLANO RENOVABLES S.A.S.",
+        "CodigoPlanta": "PARQUE SOLAR FOTOVOLTAICO FLOREO 200 MW",
+        "Tecnologia": "Solar",
+        "OEF": 437932
+      },
+      {
+        "FechaPublicacion": "2024-02-16",
+        "FechaInicioCargo": "2046-12-01",
+        "FechaFinCargo": "2047-11-30",
+        "CodigoSICAgente": "BARZALOSA S.A.S.",
+        "CodigoPlanta": "BARZALOSA",
+        "Tecnologia": "Solar",
+        "OEF": 210778
+      },
+      {
+        "FechaPublicacion": "2024-02-16",
+        "FechaInicioCargo": "2046-12-01",
+        "FechaFinCargo": "2047-11-30",
+        "CodigoSICAgente": "PROYECTO SOLAR COROZO S.A.S.",
+        "CodigoPlanta": "EL COROZO",
+        "Tecnologia": "Solar",
+        "OEF": 547627
+      },
+      {
+        "FechaPublicacion": "2024-02-16",
+        "FechaInicioCargo": "2046-12-01",
+        "FechaFinCargo": "2047-11-30",
+        "CodigoSICAgente": "LA ORQUIDEA SOLAR S.A.S",
+        "CodigoPlanta": "PLANTA SOLAR LA ORQU?DEA 200 MW",
+        "Tecnologia": "Solar",
+        "OEF": 344828
+      },
+      {
+        "FechaPublicacion": "2024-02-16",
+        "FechaInicioCargo": "2046-12-01",
+        "FechaFinCargo": "2047-11-30",
+        "CodigoSICAgente": "PARQUE SOLAR COLOMBIA X S.A.S. E.S.P.",
+        "CodigoPlanta": "PARQUE DE GENERACI?N FOTOVOLTAICO LA PALOMA 40 MW",
+        "Tecnologia": "Solar",
+        "OEF": 78830
+      },
+      {
+        "FechaPublicacion": "2024-02-16",
+        "FechaInicioCargo": "2046-12-01",
+        "FechaFinCargo": "2047-11-30",
+        "CodigoSICAgente": "EL CAMPANO SOLAR S.A.S.",
+        "CodigoPlanta": "PARQUE SOLAR EL CAMPANO - 99.9 MW",
+        "Tecnologia": "Solar",
+        "OEF": 331397
+      },
+      {
+        "FechaPublicacion": "2024-02-16",
+        "FechaInicioCargo": "2046-12-01",
+        "FechaFinCargo": "2047-11-30",
+        "CodigoSICAgente": "SOLAR LAS MARIAS S.A.S. E.S.P.",
+        "CodigoPlanta": "PARQUE SOLAR LAS MARIAS",
+        "Tecnologia": "Solar",
+        "OEF": 170663
+      },
+      {
+        "FechaPublicacion": "2024-02-16",
+        "FechaInicioCargo": "2046-12-01",
+        "FechaFinCargo": "2047-11-30",
+        "CodigoSICAgente": "NUEVAS ENERGIAS II S.A.S.",
+        "CodigoPlanta": "PARQUE SOLAR FOTOVOLTAICO MATIMBA",
+        "Tecnologia": "Solar",
+        "OEF": 312073
+      },
+      {
+        "FechaPublicacion": "2024-02-16",
+        "FechaInicioCargo": "2046-12-01",
+        "FechaFinCargo": "2047-11-30",
+        "CodigoSICAgente": "CME CONSTRUCCI?N Y MANUTENCI?N ELECTROMEC?NICA. S.A. SUCURSAL COLOMBIA",
+        "CodigoPlanta": "PARQUE SOLAR VILLAVIEJA DE 200 MW",
+        "Tecnologia": "Solar",
+        "OEF": 404860
+      },
+      {
+        "FechaPublicacion": "2024-02-16",
+        "FechaInicioCargo": "2046-12-01",
+        "FechaFinCargo": "2047-11-30",
+        "CodigoSICAgente": "TAMARINO COLOMBIA S.A.S.",
+        "CodigoPlanta": "TAMARINO SOLAR",
+        "Tecnologia": "Solar",
+        "OEF": 415288
+      },
+      {
+        "FechaPublicacion": "2024-02-16",
+        "FechaInicioCargo": "2046-12-01",
+        "FechaFinCargo": "2047-11-30",
+        "CodigoSICAgente": "GENERADORA SAN JOAQUIN S.A.S.",
+        "CodigoPlanta": "PARQUE SOLAR LAS PALMERAS",
+        "Tecnologia": "Solar",
+        "OEF": 430285
+      }
+    ],
+    "variables": [
+      {
+        "variableCode": "OEF",
+        "variableName": "Obligación de Energía Firme (OEF) en kWh/año",
+        "measurementUnit": "kWh/año",
+        "description": "Vínculo resultante de la subasta o mecanismo del cargo, que impone a un generador el deber de generar, de acuerdo con el Despacho Ideal, una cantidad diaria de energía durante el Período de Vigencia de la Obligación, cuando el Precio de Bolsa supere el Precio de Escasez de Activación. "
+      }
+    ],
+    "columns": [
+      {
+        "nameColumn": "FechaPublicacion",
+        "dataType": "fecha",
+        "description": "Fecha de publicación del dato en el SIMEM"
+      },
+      {
+        "nameColumn": "CodigoPlanta",
+        "dataType": "texto",
+        "description": "Código de la planta"
+      },
+      {
+        "nameColumn": "OEF",
+        "dataType": "flotante",
+        "description": "Obligaciones de Energía Firme"
+      },
+      {
+        "nameColumn": "FechaFinCargo",
+        "dataType": "fecha",
+        "description": "Fecha en que finaliza la vigencia del periodo cargo"
+      },
+      {
+        "nameColumn": "Tecnologia",
+        "dataType": "texto",
+        "description": "Tipo de tecnología que respalda la Obligación de Energía Firme"
+      },
+      {
+        "nameColumn": "FechaInicioCargo",
+        "dataType": "fecha",
+        "description": "Fecha en que inicia la vigencia del periodo cargo"
+      },
+      {
+        "nameColumn": "CodigoSICAgente",
+        "dataType": "texto",
+        "description": "Código del agente asignado por el ASIC"
+      }
+    ],
+    "tags": [
+      {
+        "id": "3dcd74bd-8de5-465f-bfaf-10945bebcb51",
+        "name": "OEF",
+        "estado": true
+      },
+      {
+        "id": "cab35291-3287-46d8-ad46-9085d12e0c53",
+        "name": "Energía",
+        "estado": true
+      }
+    ]
+  }
+}
