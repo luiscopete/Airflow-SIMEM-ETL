@@ -9,6 +9,9 @@ from datetime import datetime, timedelta
 from airflow import DAG
 from airflow.operators.python import PythonOperator
 from airflow.operators.bash import BashOperator
+import subprocess, sys
+
+command = sys.argv[1:]
 
 #Functions
 def api_request(dataset_id, startdate, enddate):

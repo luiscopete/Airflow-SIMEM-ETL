@@ -1,11 +1,23 @@
+#!/bin/bash
+
 #################################
 # Author: Luis Copete			#
 # Role: Data Engineer			#
 # Linkedin: in/luiscopete		#
 #################################
 
+#file_path = $1
+#datasetid = $2
+#output_path = $3
+#output_file_name = $4
+
 # JSON File
-json_file="./RAW/$1.json"
+json_file="$1/$2.json"
+
+echo $1
+echo $2
+echo $3
+echo $4
 
 # Transform JSON to table
 #table=$(jq -r '
@@ -22,11 +34,8 @@ csv=$(jq -r '
   (.result.records[] | to_entries | map(.value) | @csv)
   ' "$json_file")
 
-# Imprimir los nombres de las columnas
-echo "$column_names"
 
-# Imprimir la tabla
-echo "$csv"
+# save table in a file
+echo "$csv" > "$3/$4"
 
-#echo "$table"
 

@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #################################
 # Author: Luis Copete			#
 # Role: Data Engineer			#
