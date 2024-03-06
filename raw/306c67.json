@@ -11,7 +11,7 @@
     "metadata": {
       "description": "Obligaciones de Energía Firme (OEF) de cada planta por cada Período Cargo, por agente y expresada en kWh/año",
       "creationDate": "2023-09-28 20:52:14",
-      "lastUpdate": "2023-10-02 16:20:38",
+      "lastUpdate": "2024-03-04 17:56:13",
       "entity": "XM",
       "category": "Asignaciones de OEF por planta",
       "periodicity": "Anual",
@@ -25,181 +25,235 @@
         "FechaPublicacion": "2024-02-16",
         "FechaInicioCargo": "2046-12-01",
         "FechaFinCargo": "2047-11-30",
-        "CodigoSICAgente": "SOLAR EL EDEN S.A.S.",
-        "CodigoPlanta": "PARQUE SOLAR FOTOVOLTAICO MELGAR DE 180 MW",
+        "CodigoSICAgente": "OROG",
+        "CodigoPlanta": "PORO",
         "Tecnologia": "Solar",
-        "OEF": 372314
+        "OEF": 221731664
       },
       {
         "FechaPublicacion": "2024-02-16",
         "FechaInicioCargo": "2046-12-01",
         "FechaFinCargo": "2047-11-30",
-        "CodigoSICAgente": "GENERADORA BUENAVISTA S.A.S.",
-        "CodigoPlanta": "PARQUE SOLAR LA VIRGINIA",
+        "CodigoSICAgente": "FTNG",
+        "CodigoPlanta": "TNOR",
         "Tecnologia": "Solar",
-        "OEF": 311900
+        "OEF": 35385656
       },
       {
         "FechaPublicacion": "2024-02-16",
         "FechaInicioCargo": "2046-12-01",
         "FechaFinCargo": "2047-11-30",
-        "CodigoSICAgente": "PARQUE SOLAR COLOMBIA I S.A.S. E.S.P.",
-        "CodigoPlanta": "PARQUE DE GENERACI?N FOTOVOLTAICA LA PRIMAVERA DE 57 MW",
+        "CodigoSICAgente": "GBUG",
+        "CodigoPlanta": "VNIA",
         "Tecnologia": "Solar",
-        "OEF": 90195
+        "OEF": 113843504
       },
       {
         "FechaPublicacion": "2024-02-16",
         "FechaInicioCargo": "2046-12-01",
         "FechaFinCargo": "2047-11-30",
-        "CodigoSICAgente": "PROYECTO SOLAR MATIMBA II S.A.S.",
-        "CodigoPlanta": "EFIGEN C03 99 MW",
+        "CodigoSICAgente": "ENDG",
+        "CodigoPlanta": "GYP3",
         "Tecnologia": "Solar",
-        "OEF": 204913
+        "OEF": 209617312
       },
       {
         "FechaPublicacion": "2024-02-16",
         "FechaInicioCargo": "2046-12-01",
         "FechaFinCargo": "2047-11-30",
-        "CodigoSICAgente": "PARQUE SOLAR PUERTA DE ORO S.A.S.",
-        "CodigoPlanta": "PARQUE SOLAR PUERTA DE ORO",
+        "CodigoSICAgente": "TAMG",
+        "CodigoPlanta": "TNOS",
         "Tecnologia": "Solar",
-        "OEF": 607484
+        "OEF": 151580128
       },
       {
         "FechaPublicacion": "2024-02-16",
         "FechaInicioCargo": "2046-12-01",
         "FechaFinCargo": "2047-11-30",
-        "CodigoSICAgente": "OPERADORA SHANGRI-LA S.A.S. E.S.P.",
-        "CodigoPlanta": "PARQUE FOTOVOLTAICO SHANGRI-LA 160 MW",
+        "CodigoSICAgente": "NUEG",
+        "CodigoPlanta": "MTBA",
         "Tecnologia": "Solar",
-        "OEF": 541984
+        "OEF": 113906648
       },
       {
         "FechaPublicacion": "2024-02-16",
         "FechaInicioCargo": "2046-12-01",
         "FechaFinCargo": "2047-11-30",
-        "CodigoSICAgente": "BOSQUES SOLARES DE LOS LLANOS 6 S.A.S E.S.P",
-        "CodigoPlanta": "BOSQUES SOLARES DE LOS LLANOS 6",
+        "CodigoSICAgente": "MARG",
+        "CodigoPlanta": "MRIA",
         "Tecnologia": "Solar",
-        "OEF": 228345
+        "OEF": 62291996
       },
       {
         "FechaPublicacion": "2024-02-16",
         "FechaInicioCargo": "2046-12-01",
         "FechaFinCargo": "2047-11-30",
-        "CodigoSICAgente": "FOTOVOLTAICO TOLIMA NORTE S.A.S.",
-        "CodigoPlanta": "PARQUE SOLAR FOTOVOLTAICO TOLIMA NORTE 50MW",
+        "CodigoSICAgente": "BRZG",
+        "CodigoPlanta": "BOSA",
         "Tecnologia": "Solar",
-        "OEF": 96947
+        "OEF": 76933968
       },
       {
         "FechaPublicacion": "2024-02-16",
         "FechaInicioCargo": "2046-12-01",
         "FechaFinCargo": "2047-11-30",
-        "CodigoSICAgente": "PARQUE SOLAR COLOMBIA XIV S.A.S. E.S.P",
-        "CodigoPlanta": "MISAK",
+        "CodigoSICAgente": "SOVG",
+        "CodigoPlanta": "FREO",
         "Tecnologia": "Solar",
-        "OEF": 150019
+        "OEF": 159845184
       },
       {
         "FechaPublicacion": "2024-02-16",
         "FechaInicioCargo": "2046-12-01",
         "FechaFinCargo": "2047-11-30",
-        "CodigoSICAgente": "SOLANO RENOVABLES S.A.S.",
-        "CodigoPlanta": "PARQUE SOLAR FOTOVOLTAICO FLOREO 200 MW",
+        "CodigoSICAgente": "ENDG",
+        "CodigoPlanta": "VPAR",
         "Tecnologia": "Solar",
-        "OEF": 437932
+        "OEF": 131013104
       },
       {
         "FechaPublicacion": "2024-02-16",
         "FechaInicioCargo": "2046-12-01",
         "FechaFinCargo": "2047-11-30",
-        "CodigoSICAgente": "BARZALOSA S.A.S.",
-        "CodigoPlanta": "BARZALOSA",
+        "CodigoSICAgente": "CPSG",
+        "CodigoPlanta": "CMPS",
         "Tecnologia": "Solar",
-        "OEF": 210778
+        "OEF": 120959904
       },
       {
         "FechaPublicacion": "2024-02-16",
         "FechaInicioCargo": "2046-12-01",
         "FechaFinCargo": "2047-11-30",
-        "CodigoSICAgente": "PROYECTO SOLAR COROZO S.A.S.",
-        "CodigoPlanta": "EL COROZO",
+        "CodigoSICAgente": "ENDG",
+        "CodigoPlanta": "CHNU",
         "Tecnologia": "Solar",
-        "OEF": 547627
+        "OEF": 220737408
       },
       {
         "FechaPublicacion": "2024-02-16",
         "FechaInicioCargo": "2046-12-01",
         "FechaFinCargo": "2047-11-30",
-        "CodigoSICAgente": "LA ORQUIDEA SOLAR S.A.S",
-        "CodigoPlanta": "PLANTA SOLAR LA ORQU?DEA 200 MW",
+        "CodigoSICAgente": "SDEG",
+        "CodigoPlanta": "MGAR",
         "Tecnologia": "Solar",
-        "OEF": 344828
+        "OEF": 135894608
       },
       {
         "FechaPublicacion": "2024-02-16",
         "FechaInicioCargo": "2046-12-01",
         "FechaFinCargo": "2047-11-30",
-        "CodigoSICAgente": "PARQUE SOLAR COLOMBIA X S.A.S. E.S.P.",
-        "CodigoPlanta": "PARQUE DE GENERACI?N FOTOVOLTAICO LA PALOMA 40 MW",
+        "CodigoSICAgente": "BLOG",
+        "CodigoPlanta": "BQES",
         "Tecnologia": "Solar",
-        "OEF": 78830
+        "OEF": 83345928
       },
       {
         "FechaPublicacion": "2024-02-16",
         "FechaInicioCargo": "2046-12-01",
         "FechaFinCargo": "2047-11-30",
-        "CodigoSICAgente": "EL CAMPANO SOLAR S.A.S.",
-        "CodigoPlanta": "PARQUE SOLAR EL CAMPANO - 99.9 MW",
+        "CodigoSICAgente": "ENDG",
+        "CodigoPlanta": "PSGN",
         "Tecnologia": "Solar",
-        "OEF": 331397
+        "OEF": 26193860
       },
       {
         "FechaPublicacion": "2024-02-16",
         "FechaInicioCargo": "2046-12-01",
         "FechaFinCargo": "2047-11-30",
-        "CodigoSICAgente": "SOLAR LAS MARIAS S.A.S. E.S.P.",
-        "CodigoPlanta": "PARQUE SOLAR LAS MARIAS",
+        "CodigoSICAgente": "JOAG",
+        "CodigoPlanta": "PRAS",
         "Tecnologia": "Solar",
-        "OEF": 170663
+        "OEF": 157054032
       },
       {
         "FechaPublicacion": "2024-02-16",
         "FechaInicioCargo": "2046-12-01",
         "FechaFinCargo": "2047-11-30",
-        "CodigoSICAgente": "NUEVAS ENERGIAS II S.A.S.",
-        "CodigoPlanta": "PARQUE SOLAR FOTOVOLTAICO MATIMBA",
+        "CodigoSICAgente": "PSVG",
+        "CodigoPlanta": "MSAK",
         "Tecnologia": "Solar",
-        "OEF": 312073
+        "OEF": 54756936
       },
       {
         "FechaPublicacion": "2024-02-16",
         "FechaInicioCargo": "2046-12-01",
         "FechaFinCargo": "2047-11-30",
-        "CodigoSICAgente": "CME CONSTRUCCI?N Y MANUTENCI?N ELECTROMEC?NICA. S.A. SUCURSAL COLOMBIA",
-        "CodigoPlanta": "PARQUE SOLAR VILLAVIEJA DE 200 MW",
+        "CodigoSICAgente": "ORQG",
+        "CodigoPlanta": "ODEA",
         "Tecnologia": "Solar",
-        "OEF": 404860
+        "OEF": 125862224
       },
       {
         "FechaPublicacion": "2024-02-16",
         "FechaInicioCargo": "2046-12-01",
         "FechaFinCargo": "2047-11-30",
-        "CodigoSICAgente": "TAMARINO COLOMBIA S.A.S.",
-        "CodigoPlanta": "TAMARINO SOLAR",
+        "CodigoSICAgente": "CORG",
+        "CodigoPlanta": "COZO",
         "Tecnologia": "Solar",
-        "OEF": 415288
+        "OEF": 199883856
       },
       {
         "FechaPublicacion": "2024-02-16",
         "FechaInicioCargo": "2046-12-01",
         "FechaFinCargo": "2047-11-30",
-        "CodigoSICAgente": "GENERADORA SAN JOAQUIN S.A.S.",
-        "CodigoPlanta": "PARQUE SOLAR LAS PALMERAS",
+        "CodigoSICAgente": "PSXG",
+        "CodigoPlanta": "POMA",
         "Tecnologia": "Solar",
-        "OEF": 430285
+        "OEF": 28772950
+      },
+      {
+        "FechaPublicacion": "2024-02-16",
+        "FechaInicioCargo": "2046-12-01",
+        "FechaFinCargo": "2047-11-30",
+        "CodigoSICAgente": "SHAG",
+        "CodigoPlanta": "SHLA",
+        "Tecnologia": "Solar",
+        "OEF": 197824160
+      },
+      {
+        "FechaPublicacion": "2024-02-16",
+        "FechaInicioCargo": "2046-12-01",
+        "FechaFinCargo": "2047-11-30",
+        "CodigoSICAgente": "PSCG",
+        "CodigoPlanta": "CRRA",
+        "Tecnologia": "Solar",
+        "OEF": 172913280
+      },
+      {
+        "FechaPublicacion": "2024-02-16",
+        "FechaInicioCargo": "2046-12-01",
+        "FechaFinCargo": "2047-11-30",
+        "CodigoSICAgente": "MATG",
+        "CodigoPlanta": "EF03",
+        "Tecnologia": "Solar",
+        "OEF": 74793248
+      },
+      {
+        "FechaPublicacion": "2024-02-16",
+        "FechaInicioCargo": "2046-12-01",
+        "FechaFinCargo": "2047-11-30",
+        "CodigoSICAgente": "SOLG",
+        "CodigoPlanta": "PRMA",
+        "Tecnologia": "Solar",
+        "OEF": 32921176
+      },
+      {
+        "FechaPublicacion": "2024-02-16",
+        "FechaInicioCargo": "2046-12-01",
+        "FechaFinCargo": "2047-11-30",
+        "CodigoSICAgente": "ENDG",
+        "CodigoPlanta": "ATLP",
+        "Tecnologia": "Solar",
+        "OEF": 201780032
+      },
+      {
+        "FechaPublicacion": "2024-02-16",
+        "FechaInicioCargo": "2046-12-01",
+        "FechaFinCargo": "2047-11-30",
+        "CodigoSICAgente": "CSMG",
+        "CodigoPlanta": "VEJA",
+        "Tecnologia": "Solar",
+        "OEF": 147773904
       }
     ],
     "variables": [

@@ -11,10 +11,22 @@ from airflow.operators.python import PythonOperator
 from airflow.operators.bash import BashOperator
 import subprocess, sys
 import os
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
-import scripts.azure_connection as azc #import the azure_connection.py file
-import scripts.functions as fnc #import the functions.py file
+sys.path.insert(0, os.getcwd() + '/scripts')
+import scripts.azure_connection as azc
+import scripts.functions as fnc
+#sys.path.append(os.path.abspath(os.environ["AIRFLOW_HOME"]))
+#os.path.join(os.path.dirname(__file__), '..')
+#sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+#sys.path.insert(0, os.getcwd() + '/scripts')
+#print(sys.path)
 
+#sys.path.append(sys.path[0].replace('dags', 'scripts'))
+
+#import scripts
+#import azure_connection as azc #import the azure_connection.py file
+#import functions as fnc #import the functions.py file
+#import scripts.azure_connection as azc
+#import scripts.functions as fnc
 command = sys.argv[1:]
 
 #constants

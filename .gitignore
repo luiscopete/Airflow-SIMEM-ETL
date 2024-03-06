@@ -1,2 +1,5 @@
+plugins
 myenv
+./scripts
+dags/__pycache__
 logs
